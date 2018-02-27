@@ -1,0 +1,11 @@
+{
+  "name": "Falocito",
+  "version": "1.0.0",
+  "description": "Bot de Discord para la comunidad de jugadores TSG",
+  "main": "bot.js",
+  "author": "Kadaiser",
+  "dependencies": {
+    "discord.io": "^2.5.3",
+    "winston": "^2.4.0"
+  }
+}
