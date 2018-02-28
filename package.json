@@ -1,11 +1,22 @@
 {
-  "name": "Falocito",
+  "name": "falocito",
   "version": "1.0.0",
   "description": "Bot de Discord para la comunidad de jugadores TSG",
   "main": "bot.js",
   "author": "Kadaiser",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kadaiser/TSG.BOT.Falocito.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kadaiser/TSG.BOT.Falocito/issues"
+  },
+  "homepage": "https://github.com/Kadaiser/TSG.BOT.Falocito#readme",
   "dependencies": {
-    "discord.io": "^2.5.3",
-    "winston": "^2.4.0"
+    "discord.js": "^11.3.0"
   }
 }
